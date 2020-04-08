@@ -1,0 +1,3 @@
+This is my 5th file in local repository
+This is version1 of 5th file
+Attempt to revert changes
